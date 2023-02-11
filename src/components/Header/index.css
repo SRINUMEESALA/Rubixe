@@ -1,0 +1,26 @@
+.rubixeLogo {
+    height: 50px;
+
+}
+
+.navCon {
+
+    width: 95%;
+}
+
+.navListCon {
+    width: 50%;
+}
+
+.HeaderCon {
+    background-color: #1F1F1F;
+}
+
+.routerLinkUnsetStyles {
+    all: unset;
+}
+
+.routerLinkUnsetStyles:hover {
+    all: unset;
+    cursor: pointer;
+}

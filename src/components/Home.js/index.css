@@ -1,0 +1,25 @@
+.contentCon {
+    width: 90%;
+}
+
+.parentIntro {
+    background-color: #880e4f;
+
+}
+
+.cardsParentCon {
+    background-color: #d7d7e9;
+}
+
+.whereWeStartedCon {
+    margin-top: 50px;
+}
+
+.banner {
+    height: 90vh;
+    background-image: url("https://res.cloudinary.com/radhekrishn/image/upload/v1675934215/MovieApp/Screenshot_from_2023-02-09_09-30-32_fdad2y.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 70vw;
+    background-color: black;
+}
